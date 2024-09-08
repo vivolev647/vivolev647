@@ -1,7 +1,7 @@
 # vivolev647
 ## intro
 
-> Hello and welcome to my github! This is a great place to find barely-functional (if functional at all) malware that for some reason I write a lot.
+> Hi, I write barely functional code and am the creator of Yet Another Constructed Language, something that is in no way related to github but is still on here for some reason.
 
 ## so what do i do here?
 
