@@ -5,7 +5,7 @@
 
 ## intro
 
-> Hi, I write barely functional code and am the creator of Yet Another Constructed Language, something that is in no way related to github but is still on here for some reason.
+> Hi, I write barely functional code and am the creator of Yet Another Constructed Language, something that is in no way related to github but is still on here for some reason. I also misspell "license.md" as "lisence.md" a lot for some reason.
 
 ## so what do i do here?
 
