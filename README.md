@@ -11,6 +11,8 @@
 
 > Fuck around, that's basically it.
 
-## contact me kf you want i guess
+## contact me if you want i guess
 
-- https://discord.gg/UBhFkUbyNm
+- my discord: https://discord.gg/UBhFkUbyNm
+- my email: vivolev647@gmail.com
+- YACL discord: https://discord.gg/KGxdNFXeTt
