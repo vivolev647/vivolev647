@@ -10,4 +10,4 @@ I use whatever the fuck language I feel like using most of the time, but general
 Maybe I should try and focus on one thing at a time. But I'm not gonna do that.
 
 I do cybersecurity stuff sometimes; I suck at it, of course.
-Why, what'd you expect? Self-confidence!
+Why, what'd you expect? Self-confidence?
