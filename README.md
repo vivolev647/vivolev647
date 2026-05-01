@@ -7,5 +7,7 @@ I write half-functional bullshit that is barely legible to myself.
 
 I use whatever the fuck language I feel like using most of the time, but generally it's just __Python__, __Lua__, __C#__, __TypeScript__, __PowerShell__, and a few others that I can't fully recall off of the top of my head.
 
+Maybe I should try and focus on one thing at a time. But I'm not gonna do that.
+
 I do cybersecurity stuff sometimes; I suck at it, of course.
 Why, what'd you expect? Self-confidence!
