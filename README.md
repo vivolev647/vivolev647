@@ -23,10 +23,10 @@ Documents/vivolev647.gz     100% 67kB 5.2MB/s 00:00
 vivolev647@generic-host2:~$exit
 logout
 Connection to generic-host2 closed.
-user@generic-host:~$ cd Documents
-user@generic-host:~/Documents$ ls -a
+user@generic-host:~$cd Documents
+user@generic-host:~/Documents$ls -a
 
-. .. homework vivolev647.gz
+.  ..  homework  vivolev647.gz
 
 user@generic-host:~/Documents$gunzip vivolev647.gz
 user@generic-host:~/Documents$nano vivolev647.md
